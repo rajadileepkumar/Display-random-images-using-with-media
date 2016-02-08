@@ -49,3 +49,6 @@ function get_images_from_media_library() {
 }
 
 add_shortcode('display_images_from_media_library','display_images_from_media_library');
+
+/*add this shortcode into post or page in wordpress images will display*/
+[display_images_from_media_library]
